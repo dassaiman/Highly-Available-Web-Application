@@ -8,7 +8,6 @@ This project deploys a highly available web application architecture on AWS usin
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- 
 
 
 ---
