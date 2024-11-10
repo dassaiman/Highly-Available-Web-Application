@@ -12,10 +12,6 @@ This project deploys a highly available web application architecture on AWS usin
   - [1. VPC Module](#1-vpc-module)
   - [2. ALB Module](#2-alb-module)
   - [3. EC2/Auto Scaling Module](#3-ec2auto-scaling-module)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
