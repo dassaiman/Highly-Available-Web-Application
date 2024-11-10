@@ -7,11 +7,9 @@ This project deploys a highly available web application architecture on AWS usin
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
-- [Infrastructure Diagram](#infrastructure-diagram)
-- [Module Breakdown](#module-breakdown)
-  - [1. VPC Module](#1-vpc-module)
-  - [2. ALB Module](#2-alb-module)
-  - [3. EC2/Auto Scaling Module](#3-ec2auto-scaling-module)
+- [Contributing](#contributing)
+- 
+
 
 ---
 
@@ -46,6 +44,33 @@ highly_available_web_app/
 │       ├── outputs.tf
 │       └── variables.tf
 └── terraform.tfvars      # Customizable variable definitions for deployment
+
+```
+
+---
+
+## Customization
+
+Modify values in **variables.tf** or **terraform.tfvars** to adjust configurations like instance type, AMI ID, or VPC CIDR block to fit specific deployment needs.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with any improvements.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
